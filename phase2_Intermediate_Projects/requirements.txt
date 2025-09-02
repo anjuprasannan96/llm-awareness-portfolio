@@ -1,0 +1,9 @@
+streamlit
+requests
+feedparser
+openai-whisper
+Pillow
+transformers
+torch
+Pillow
+
